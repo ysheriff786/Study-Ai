@@ -1,0 +1,8 @@
+{
+  "name": "Remix StudyForge AI",
+  "description": "Source-grounded personalized tutoring platform with multimodal ingestion, Bayesian Knowledge Tracing (BKT), interactive citations, and RAG evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
